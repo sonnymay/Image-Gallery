@@ -52,13 +52,6 @@ python main.py
 
 Contributions are welcome! If you would like to improve the code or add new features, feel free to fork the repository and submit a pull request.
 
-## Connect with Me
-
-Feel free to connect with me if you have any questions or suggestions.
-
-- GitHub: [@sonnymay](https://github.com/sonnymay)
-- LinkedIn: [Add your LinkedIn URL](#)
-- Email: example@example.com
 
 ## License
 
